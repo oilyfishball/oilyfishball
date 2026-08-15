@@ -30,32 +30,6 @@ I've worked across the full stack, from mobile development and UI/UX to AI-power
 * Data & Distributed Systems
 * Building products from scratch
 
-## 🛠️ Technologies
-
-### Languages
-
-`Python` · `Java` · `C++` · `C` · `JavaScript` · `TypeScript` · `SQL`
-
-### Development
-
-`React Native` · `Expo` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Supabase`
-
-### AI & Data
-
-`PyTorch` · `OpenCV` · `Vertex AI` · `LLMs` · `Groq` · `NumPy`
-
-### Tools & Platforms
-
-`Git` · `Docker` · `Google Cloud` · `Figma` · `Sentry` · `PostHog`
-
-## 📌 Currently
-
-* Studying Computer Science at NUS
-* Building and shipping Snowball
-* Exploring AI and LLM applications
-* Learning more about computer networks and distributed systems
-* Building products from ideas into working applications
-
 ---
 
 Thanks for stopping by! ⭐
