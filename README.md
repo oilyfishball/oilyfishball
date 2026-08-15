@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**oilyfishball/oilyfishball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ZR** — a Computer Science student at **NUS** with a deep interest in **Artificial Intelligence and Software Engineering**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real products and exploring how AI can make everyday experiences more personal and effortless.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+### <img width="20" height="20" alt="Group 1" src="https://github.com/user-attachments/assets/4f8c55e3-c24b-4332-a469-bb78bba95707" /> Snowball
+
+I'm currently working as a Software Engineer on **Snowball**, an app for capturing and organizing your everyday life as memories.
+
+I've worked across the full stack, from mobile development and UI/UX to AI-powered features, analytics, and production infrastructure.
+
+**Available on iOS and Android:**
+
+<a href="https://apps.apple.com/us/app/snowball-collect-your-life/id6740313565">
+  <img width="250" height="75" alt="Download on the App Store" src="https://github.com/user-attachments/assets/68c00aee-59c8-4da0-9638-375a22c75b0d"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.vishnu.sundaresan.snowballapp&hl=en_SG">
+  <img width="250" height="75" alt="Get it on Google Play" src="https://github.com/user-attachments/assets/c4df5a98-fdc2-4c24-b337-2343e9929fec"/>
+</a>
+
+## 🧠 Interests
+
+* Artificial Intelligence & Machine Learning
+* AI-powered applications
+* Software Engineering
+* Computer Networks
+* Data & Distributed Systems
+* Building products from scratch
+
+## 🛠️ Technologies
+
+### Languages
+
+`Python` · `Java` · `C++` · `C` · `JavaScript` · `TypeScript` · `SQL`
+
+### Development
+
+`React Native` · `Expo` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Supabase`
+
+### AI & Data
+
+`PyTorch` · `OpenCV` · `Vertex AI` · `LLMs` · `Groq` · `NumPy`
+
+### Tools & Platforms
+
+`Git` · `Docker` · `Google Cloud` · `Figma` · `Sentry` · `PostHog`
+
+## 📌 Currently
+
+* Studying Computer Science at NUS
+* Building and shipping Snowball
+* Exploring AI and LLM applications
+* Learning more about computer networks and distributed systems
+* Building products from ideas into working applications
+
+---
+
+Thanks for stopping by! ⭐
