@@ -32,4 +32,4 @@ I've worked across the full stack, from mobile development and UI/UX to AI-power
 
 ---
 
-Thanks for stopping by! ⭐
+Thanks for stopping by!
