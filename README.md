@@ -4,6 +4,15 @@ I'm **ZR** — a Computer Science student at **NUS** with a deep interest in **A
 
 I enjoy turning ideas into real products and exploring how AI can make everyday experiences more personal and effortless.
 
+## 🧠 Interests
+
+* Artificial Intelligence & Machine Learning
+* AI-powered applications
+* Software Engineering
+* Computer Networks
+* Data & Distributed Systems
+* Building products from scratch
+
 ## 🚀 What I'm working on
 
 ### <img width="20" height="20" alt="Group 1" src="https://github.com/user-attachments/assets/4f8c55e3-c24b-4332-a469-bb78bba95707" /> Snowball
@@ -20,15 +29,6 @@ I've worked across the full stack, from mobile development and UI/UX to AI-power
 <a href="https://play.google.com/store/apps/details?id=com.vishnu.sundaresan.snowballapp&hl=en_SG">
   <img width="250" height="75" alt="Get it on Google Play" src="https://github.com/user-attachments/assets/c4df5a98-fdc2-4c24-b337-2343e9929fec"/>
 </a>
-
-## 🧠 Interests
-
-* Artificial Intelligence & Machine Learning
-* AI-powered applications
-* Software Engineering
-* Computer Networks
-* Data & Distributed Systems
-* Building products from scratch
 
 ---
 
